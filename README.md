@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This repository contains the material for learning Python, Bayesian statistics, and kinematics analysis for MLD study group.
+This repository contains the material for learning Python, Bayesian statistics, and kinematics analysis of MLD study group.
 
 ## Learing materials
 #### Python
