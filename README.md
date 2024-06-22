@@ -1,8 +1,8 @@
 # MLD_StudyGroup
 
 ## Purpose
-In the MLD study group, we aim to learn Python and Bayesian statistics (possibly other topics too) by studying together. 
-We follow some great learining materials out there and help each other learn the meterials.
+
+This repository contains the material for learning Python, Bayesian statistics, and kinematics analysis for MLD study group.
 
 ## Learing materials
 #### Python
